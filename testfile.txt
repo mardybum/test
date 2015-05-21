@@ -15,7 +15,10 @@ main()
  
 void my_function()
 {
-   printf("Hello world.\n");
+   printf("Hello world 123.\n");
+   
+   int a = 1;
+   int b = 2;
    
    int a = 1;
    int b = 2;
